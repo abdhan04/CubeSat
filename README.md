@@ -1,7 +1,7 @@
 # Project CubeSat
 
 ## Introduction
-This CubeSat Project is a compact satellite prototype designed for educational and experimental purposes. It integrates microcontrollers, sensors, and communication modules to simulate real-world satellite functionalities. This Project provides an overview of the components, structure, and operation of the CubeSat, including images and videos to enhance understanding.
+This is a Project made by Manoj Kumar pursuing his Bachelor of Engineering. This CubeSat Project is a compact satellite prototype designed for educational and experimental purposes. It integrates microcontrollers, sensors, and communication modules to simulate real-world satellite functionalities. This Project provides an overview of the components, structure, and operation of the CubeSat, including images and videos to enhance understanding.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/memkr-lab/CubeSat/refs/heads/main/All%20Images/Photos%26Videos/A1.jpeg" width="300" height="400" />
