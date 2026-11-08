@@ -93,7 +93,8 @@ The CubeSat performs the following key operations:
 2. Image capture and processing.
 3. Wireless transmission of sensor and image data to a ground station.
 4. Real-time visualization using the RGB LED strip.
-
+<br>
+Weather monitoring
 https://github.com/user-attachments/assets/92fa8aad-67d8-41a4-8ed6-5fe9906413f0
 
 ---
