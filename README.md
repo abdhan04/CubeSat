@@ -93,11 +93,10 @@ The CubeSat performs the following key operations:
 2. Image capture and processing.
 3. Wireless transmission of sensor and image data to a ground station.
 4. Real-time visualization using the RGB LED strip.
-<br>
-Weather monitoring
+
 https://github.com/user-attachments/assets/92fa8aad-67d8-41a4-8ed6-5fe9906413f0
 
----
+---atus 
 
 ## Conclusion
 While the CubeSat prototype achieves significant milestones in integrating sensors, microcontrollers, and communication modules, it is important to note that the camera module is not yet operational. Its integration remains an open possibility, hinging on future design and testing phases. The uncertainty surrounding this feature leaves room for potential advancements, ensuring that the CubeSat’s capabilities remain adaptable to emerging technologies and project goals. Though not confirmed, the inclusion of the camera is an exciting prospect for future iterations of the CubeSat.
